@@ -1,0 +1,5 @@
+usuario Maria(
+  edad = 25;
+  activo = falso;
+  saludo = 'Buenos dias';
+)

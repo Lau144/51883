@@ -1,0 +1,15 @@
+{
+  "name": "prueba-antlr-project",
+  "version": "1.0.0",
+  "description": "Proyecto de ejemplo con ANTLR4 para la gramática Prueba",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "antlr4": "^4.13.2"
+  },
+  "author": "Tu Nombre",
+  "license": "MIT"
+}

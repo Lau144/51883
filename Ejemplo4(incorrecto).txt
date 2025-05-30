@@ -1,0 +1,5 @@
+usuario Pedro(
+  edad = 28;
+  activo = verda@dero;  // símbolo inválido '@' genera error léxico
+  saludo = 'Hola';
+)

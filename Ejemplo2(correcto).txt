@@ -1,0 +1,5 @@
+usuario Juan(
+  edad = 30;
+  activo = verdadero;
+  saludo = 'Hola!';
+)

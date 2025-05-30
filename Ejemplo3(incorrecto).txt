@@ -1,0 +1,5 @@
+usuario Ana(
+  edad = 30;
+  activo = verdader@;
+  saludo = 'Hola';
+)
